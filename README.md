@@ -21,9 +21,9 @@ A simple, interactive, and fun web-based game where players try to guess a rando
 
 Ensure your project files are organized like this in your repository:
 ```text
-├── guessthenumber.html          # Game structure and UI elements
+├── guess the number.html          # Game structure and UI elements
 ├── style.css           # Custom styling and confetti animations
-└── script.js           # Core game engine (contains your Javascript functions)
+└── js.java          # Core game engine (contains your Javascript functions)
 ```
 
 ## How to Run Locally
